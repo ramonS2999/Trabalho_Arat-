@@ -12,7 +12,7 @@ import java.util.Scanner; // importa a biblioteca Scanner
  * 3197 = 3+1+9+7 = 20
  * exe05
  */
-public class exe05 { // Nome da classe
+public class exe06 { // Nome da classe
 
     static Scanner sc = new Scanner(System.in); // cria uma instancia de Scanner
 
