@@ -1,7 +1,18 @@
+/*
+ *  Luis Ramon
+ *  Sebastiã
+ */
+
 package app; // Nome do pacote
 
 import java.util.Scanner; // Import a biblioteca Scanner
 /**
+ * 2) Desenvolva um sistema que peça a idade do seu Primo e a idade da sua Tia. Em seguida,
+ * imprima as informações a seguir: ( 2 pontos )
+ * - a idade do seu primo
+ * - a idade da sua tia
+ * - minha tia tem < anos > de idade a mais que meu primo.
+ *
  * exe02
  */
 public class exe02 { // Nome da classe
