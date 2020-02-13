@@ -1,6 +1,12 @@
+/*
+ *  Luis Ramon
+ *  Sebastiã
+ */
 package app; // Pacote que está sendo usado
 
 /**
+ * 4) Desenvolva um sistema que realize o somatório dos números de 1 até 100. (2 pontos )
+ *
  * exe04
  */
 public class exe04 { // Nome da Classe
