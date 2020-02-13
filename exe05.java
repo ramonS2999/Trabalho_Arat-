@@ -1,7 +1,15 @@
+/*
+ *  Luis Ramon
+ *  Sebastiã
+ */
 package app;
 
 import java.util.Scanner; // importa a biblioteca Scanner
 /**
+ * 6) João deseja fazer um sistema que solicita para a pessoa digitar um númeor qualquer,
+ * posteriormente, realize a soma de todos os algarismos deste mesmo número. ( 2 pontos )
+ * 2222 = 2+2+2+2 = 8
+ * 3197 = 3+1+9+7 = 20
  * exe05
  */
 public class exe05 { // Nome da classe
