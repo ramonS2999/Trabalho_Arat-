@@ -1,6 +1,13 @@
+/*
+ *  Luis Ramon
+ *  Sebastiã
+ */
 package app; // Pacote usado
 import java.util.Scanner; // importando a classe Scanner
 /**
+ * 3) Desenvolva um sistema de login esenha. Solicitando ao usuário o seu login e armazene a
+ * informação em uma variável. Posteriormente a sua senha e coloque-a em outra variável. Por
+ * fim, verifique se o login e a senha são iguais àquele definido por você. ( 2 pontos )
  * exe03
  */
 public class exe03 { // Nome da classe
